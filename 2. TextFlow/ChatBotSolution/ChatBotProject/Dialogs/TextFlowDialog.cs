@@ -12,7 +12,7 @@ namespace ChatBotProject.Dialogs
     public class TextFlowDialog : IDialog
     {
         string optionSaludar = "1. Saludar";
-        string optionDesapedir = "2. Despedir";
+        string optionDespedir = "2. Despedir";
         public async Task StartAsync(IDialogContext context)
         {
             context.Wait(MessageReceived);
@@ -21,7 +21,7 @@ namespace ChatBotProject.Dialogs
         private async Task MessageReceived(IDialogContext context, IAwaitable<object> result)
         {
             await context.PostAsync("Hola soy tu amigo Bot y tengo estas opciones para ti:");
-            await context.PostAsync(optionSaludar+ " \n" +optionDesapedir);
+            await context.PostAsync(optionSaludar+ " \n" +optionDespedir);
             context.Wait(OptioResult);
         }
 
@@ -38,13 +38,13 @@ namespace ChatBotProject.Dialogs
                 }
                 else
                 {
-                    await context.PostAsync("Hata pronto");
+                    await context.PostAsync("Hasta pronto");
                 }                
             }
             else
             {
-                await context.PostAsync("Ópción no válida");
-                await context.PostAsync(optionSaludar + " \n" + optionDesapedir);
+                await context.PostAsync("Opción no válida");
+                await context.PostAsync(optionSaludar + " \n" + optionDespedir);
             }
 
         }
