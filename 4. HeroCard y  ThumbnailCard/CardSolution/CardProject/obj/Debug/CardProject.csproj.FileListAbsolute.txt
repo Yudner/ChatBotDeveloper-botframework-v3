@@ -1,0 +1,43 @@
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Bot Application.dll.config
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Bot Application.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Bot Application.pdb
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Autofac.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Chronic.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.Bot.Builder.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.Bot.Connector.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Newtonsoft.Json.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\System.Net.Http.Formatting.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\System.Web.Http.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\System.Web.Http.WebHost.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Autofac.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.Bot.Builder.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.Bot.Connector.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\Newtonsoft.Json.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\System.Net.Http.Formatting.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\System.Web.Http.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\System.Web.Http.WebHost.xml
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\obj\Debug\CardProject.csprojResolveAssemblyReference.cache
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\obj\Debug\Bot Application.dll
+C:\Users\YUDNER\Desktop\CardSolution\CardProject\obj\Debug\Bot Application.pdb
