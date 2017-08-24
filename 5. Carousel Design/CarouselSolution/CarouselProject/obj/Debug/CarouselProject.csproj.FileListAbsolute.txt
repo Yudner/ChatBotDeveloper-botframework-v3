@@ -1,0 +1,43 @@
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\obj\Debug\CarouselProject.csprojResolveAssemblyReference.cache
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Bot Application.dll.config
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Bot Application.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Bot Application.pdb
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Autofac.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Chronic.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.Bot.Builder.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.Bot.Connector.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Newtonsoft.Json.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\System.Net.Http.Formatting.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\System.Web.Http.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\System.Web.Http.WebHost.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Autofac.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.Bot.Builder.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.Bot.Connector.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\Newtonsoft.Json.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\System.Net.Http.Formatting.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\System.Web.Http.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\System.Web.Http.WebHost.xml
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\obj\Debug\Bot Application.dll
+C:\Users\YUDNER\Desktop\CarouselSolution\CarouselProject\obj\Debug\Bot Application.pdb
