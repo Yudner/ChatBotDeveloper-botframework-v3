@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBotQnAMakerSolution", "SampleBotQnAMakerSolution\SampleBotQnAMakerSolution.csproj", "{BBD6AA8D-23C3-41C0-AF87-C79E303F3CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD6AA8D-23C3-41C0-AF87-C79E303F3CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD6AA8D-23C3-41C0-AF87-C79E303F3CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD6AA8D-23C3-41C0-AF87-C79E303F3CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD6AA8D-23C3-41C0-AF87-C79E303F3CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4157181-84CF-4E74-8514-8CA031B2D68C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,67 @@
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Bot Application.dll.config
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Bot Application.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Bot Application.pdb
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Autofac.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Chronic.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Connector.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Protocols.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Newtonsoft.Json.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\System.Net.Http.Formatting.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\System.Web.Http.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\System.Web.Http.WebHost.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Autofac.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.pdb
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.Autofac.pdb
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.CognitiveServices.LuisActionBinding.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.Bot.Connector.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Logging.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Protocols.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\Newtonsoft.Json.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\System.Net.Http.Formatting.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\System.Web.Http.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\System.Web.Http.WebHost.xml
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\obj\Debug\SampleBotQnAMakerSolution.csprojResolveAssemblyReference.cache
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\obj\Debug\SampleBotQnAMakerSolution.csproj.CoreCompileInputs.cache
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\obj\Debug\Bot Application.dll
+c:\users\yudner\Source\Repos\SampleBotQnAMaker\SampleBotQnAMakerSolution\obj\Debug\Bot Application.pdb
