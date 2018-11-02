@@ -1,0 +1,57 @@
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Bot Application.dll.config
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Bot Application.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Bot Application.pdb
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Autofac.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Chronic.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.Bot.Builder.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.Bot.Connector.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Newtonsoft.Json.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\System.Net.Http.Formatting.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\System.Web.Http.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\System.Web.Http.WebHost.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Autofac.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.Bot.Builder.pdb
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.Bot.Builder.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.Bot.Connector.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\Newtonsoft.Json.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\System.Net.Http.Formatting.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\System.Web.Http.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\System.Web.Http.WebHost.xml
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\el\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\obj\Debug\QnAMakerProject.csprojResolveAssemblyReference.cache
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\obj\Debug\QnAMakerProject.csproj.CoreCompileInputs.cache
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\obj\Debug\Bot Application.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\obj\Debug\Bot Application.pdb
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\RestSharp.dll
+C:\Users\YUDNER\Desktop\QnAMakerSolution\QnAMakerProject\bin\RestSharp.xml
